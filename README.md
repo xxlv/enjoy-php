@@ -69,7 +69,9 @@ PHP本身需要跟其他各种技术相结合，你可能需要学习linux，学
 自勉的话不多说了，不论学什么，坚持永远是最重要也是最难的！
 
 
+### 在线地址
 
+gitbook的在线地址是：[Enjoy PHP](http://lvxiang.gitbooks.io/enjoy-php/content/)
 
 
 
